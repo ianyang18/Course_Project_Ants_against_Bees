@@ -15,4 +15,4 @@ Arguments:</br>
 --food: number of food to start with.</br>
 
 # Contribution
-The game logic of Ants Vs. SomeBees in ant.py is the main work to be finished in this project.
+The game logic of Ants Vs. SomeBees in ant.py is the main work to be done in this project.
