@@ -9,7 +9,7 @@ Fail to pester the airborne intruders adequately, and your queen will succumb to
 ` python3 gui.py --food 10 `
  
 Arguments:</br>
--h, --help:     show this help message and exit.</br>
--d DIFFICULTY:  sets difficulty of game (test/easy/medium/hard/insane).</br>
--w, --water:    loads a full layout with water.</br>
---food FOOD:    number of food to start with.</br>
+-h: show this help message and exit.</br>
+-d: sets difficulty of game (test/easy/medium/hard/insane).</br>
+-w: loads a full layout with water.</br>
+--food: number of food to start with.</br>
